@@ -130,8 +130,8 @@
 <rect rx="6" ry="6" x="470.0" y="214" width="55" height="50" class="ghost"/>
 <text x="497.5" y="239.0">Delete</text>
 <text x="497.5" y="257.0" class="small">Alt</text>
-<rect rx="6" ry="6" x="72.75" y="64.5" width="27.5" height="25.0" class="combo"/>
-<text x="86.5" y="77.0" class="small">`</text>
+<rect rx="6" ry="6" x="190.75" y="172.5" width="27.5" height="25.0" class="combo"/>
+<text x="204.5" y="185.0" class="small">`</text>
 <rect rx="6" ry="6" x="454.25" y="64.5" width="27.5" height="25.0" class="combo"/>
 <text x="468.0" y="77.0" class="small">;</text>
 <rect rx="6" ry="6" x="190.75" y="118.5" width="27.5" height="25.0" class="combo"/>
@@ -142,8 +142,8 @@
 <text x="145.5" y="131.0" class="small">[</text>
 <rect rx="6" ry="6" x="513.25" y="118.5" width="27.5" height="25.0" class="combo"/>
 <text x="527.0" y="131.0" class="small">]</text>
-<rect rx="6" ry="6" x="572.25" y="118.5" width="27.5" height="25.0" class="combo"/>
-<text x="586.0" y="131.0" class="small">\</text>
+<rect rx="6" ry="6" x="454.25" y="172.5" width="27.5" height="25.0" class="combo"/>
+<text x="468.0" y="185.0" class="small">\</text>
 <text x="27.5" y="291.0" class="label">SYM:</text>
 <rect rx="6" ry="6" x="29.5" y="318" width="55" height="50"/>
 <text x="57.0" y="343.0">!</text>
@@ -167,9 +167,8 @@
 <text x="293.0" y="397.0">^</text>
 <rect rx="6" ry="6" x="29.5" y="426" width="55" height="50"/>
 <rect rx="6" ry="6" x="88.5" y="426" width="55" height="50"/>
-<text x="116.0" y="451.0">¿</text>
 <rect rx="6" ry="6" x="147.5" y="426" width="55" height="50"/>
-<text x="175.0" y="451.0">\</text>
+<text x="175.0" y="451.0">¿</text>
 <rect rx="6" ry="6" x="206.5" y="426" width="55" height="50"/>
 <text x="234.0" y="451.0">*</text>
 <rect rx="6" ry="6" x="265.5" y="426" width="55" height="50"/>
@@ -209,7 +208,8 @@
 <rect rx="6" ry="6" x="206.5" y="480" width="55" height="50"/>
 <text x="234.0" y="505.0">Space</text>
 <rect rx="6" ry="6" x="265.5" y="480" width="55" height="50"/>
-<text x="293.0" y="505.0">FUN</text>
+<text x="293.0" y="505.0">Bspace</text>
+<text x="293.0" y="523.0" class="small">FUN</text>
 <rect rx="6" ry="6" x="352.0" y="480" width="55" height="50" class="held"/>
 <rect rx="6" ry="6" x="411.0" y="480" width="55" height="50"/>
 <text x="438.5" y="505.0">Shift</text>
@@ -302,7 +302,8 @@
 <text x="234.0" y="771.0">Ctrl</text>
 <rect rx="6" ry="6" x="265.5" y="746" width="55" height="50" class="held"/>
 <rect rx="6" ry="6" x="352.0" y="746" width="55" height="50"/>
-<text x="379.5" y="771.0">FUN</text>
+<text x="379.5" y="771.0">Space</text>
+<text x="379.5" y="789.0" class="small">FUN</text>
 <rect rx="6" ry="6" x="411.0" y="746" width="55" height="50"/>
 <text x="438.5" y="771.0">Shift</text>
 <rect rx="6" ry="6" x="470.0" y="746" width="55" height="50" class="ghost"/>
