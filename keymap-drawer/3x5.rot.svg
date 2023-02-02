@@ -126,10 +126,13 @@ path {
 <text x="562.0" y="201.6">M</text>
 <rect rx="6.0" ry="6.0" x="592.0" y="170.0" width="52.0" height="52.0"/>
 <text x="618.0" y="196.0">,</text>
+<text x="618.0" y="177.0" class="small">&lt;</text>
 <rect rx="6.0" ry="6.0" x="648.0" y="175.6" width="52.0" height="52.0"/>
 <text x="674.0" y="201.6">.</text>
+<text x="674.0" y="182.6" class="small">&gt;</text>
 <rect rx="6.0" ry="6.0" x="704.0" y="186.79999999999998" width="52.0" height="52.0"/>
 <text x="730.0" y="212.79999999999998">/</text>
+<text x="730.0" y="193.79999999999998" class="small">?</text>
 <rect rx="6.0" ry="6.0" x="180.96" y="242.79999999999995" width="52.0" height="52.0" class="ghost"/>
 <text x="206.96" y="268.79999999999995">Tab</text>
 <text x="206.96" y="287.79999999999995" class="small">Gui</text>
